@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    padding: opx;
+    margin: 0px;
+}
+section{
+    padding: 2rem 9%;
+}
+.home-container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
